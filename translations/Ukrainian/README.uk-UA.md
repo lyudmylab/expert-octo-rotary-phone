@@ -1,3 +1,3 @@
-# expert-octo-rotary-phone
+# експерт-окто-ротарний-телефон
 
-Hello World practice project Trying to translate it.
+Привіт Cвіт навчальний проект Намагаюсь його перекласти.
