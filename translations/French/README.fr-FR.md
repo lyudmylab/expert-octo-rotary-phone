@@ -1,3 +1,3 @@
-# expert-octo-téléphone-rotatif
+# expert-octo-rotary-phone
 
-Projet de pratique Hello World Je suis en train d'essayer de le traduire.
+Hello World practice project Trying to translate it.
