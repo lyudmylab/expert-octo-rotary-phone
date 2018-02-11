@@ -1,5 +1,4 @@
 files:
   - source: /*.*
-  - translations: /translations/%locale%.%original_file_name%
-
-    
+  - source: /*.*
+    translation: /translations/%locale%.%original_file_name%
