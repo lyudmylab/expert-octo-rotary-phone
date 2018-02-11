@@ -1,3 +1,4 @@
 files:
   - source: /*.*
     translation: /translations/%language%/%file_name%.%locale%.%file_extension%
+    ignore: **/%language%/**
